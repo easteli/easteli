@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @easteli
 - 🌱 I’m currently learning math & economics
 - 💞️ I’m looking to collaborate on school projects
-- 📫 How to reach me elieaston@outlook.com or eli.easton@mail.utoronto.ca
+- 📫 How to reach me eli.easton@mail.utoronto.ca
 
 <!---
 easteli/easteli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
