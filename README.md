@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @easteli
-- 👀 I’m interested in politics & record collecting
 - 🌱 I’m currently learning math & economics
 - 💞️ I’m looking to collaborate on school projects
 - 📫 How to reach me elieaston@outlook.com
