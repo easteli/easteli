@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @easteli
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on school projects
 
 <!---
 easteli/easteli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
